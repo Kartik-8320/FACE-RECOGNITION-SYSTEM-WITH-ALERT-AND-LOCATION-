@@ -5,9 +5,9 @@ import datetime
 import geocoder
 
 # Email Configuration
-SENDER_EMAIL = "sender112234@gmail.com"
-APP_PASSWORD = "saey iwoh ajwl haxs"
-RECEIVER_EMAIL = "kartikvasandani@gmail.com"
+SENDER_EMAIL = "ADD MAIL"
+APP_PASSWORD = "ADD PWD"
+RECEIVER_EMAIL = "ADD MAIN"
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
